@@ -3,16 +3,14 @@
 </p>
 
 # Lucca Caires
-<sub>*Estagiário de Order Management* na Siemens</sub>
+<sub>Trainee de Finanças na EDP</sub>
 
-Futuro Engenheiro apaixonado por tecnologia e inovação!
-
-Estudante com vivência em vários projetos, da construção de protótipos de veículos eficientes energeticamente, até o desenvolvimento de um sistema para otimizar processos!
+Engenheiro se aventurando no mundo das finanças e data science.
 
 ✉ luccacaires16@gmail.com
 ✆ (38) 99192-1839
 
-**Background:** Python, Lean Six Sigma, Projetos, Otimização Matemática.
+**Background:** Finanças, Python, Lean Six Sigma, Projetos, Otimização Matemática.
 
 **Links:**
 * [LinkedIn](http://linkedin.com/in/luccacaires)
